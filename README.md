@@ -1,4 +1,4 @@
-EduGameHub — SIH 2025 Project
+### EduGameHub — SIH 2025 Project ###
 
 A gamified learning platform transforming education through interactive challenges, progress tracking, and personalized learning journeys.
 
