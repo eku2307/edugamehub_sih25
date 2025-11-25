@@ -1,70 +1,117 @@
-# Getting Started with Create React App
+EduGameHub — SIH 2025 Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A gamified learning platform transforming education through interactive challenges, progress tracking, and personalized learning journeys.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+⭐ Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+EduGameHub is an interactive learning ecosystem designed for students, teachers, and institutions.
+Instead of passive textbook-based learning, the platform turns concepts into mini-games, challenges, quizzes, and real-time progress systems, making learning fun, visual, and addictive.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The aim is simple:
+Make learning as engaging as gaming — without compromising educational depth.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+🎯 Problem Statement
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Traditional learning suffers from:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Low engagement
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Minimal personalization
 
-### `npm run eject`
+Lack of real-time feedback
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Limited practical application
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Boring or non-interactive study formats
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+EduGameHub addresses these issues through a gamified digital learning environment with progression, rewards, analytics, and educator-driven content.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+🚀 Key Features
+1. Gamified Learning Modules
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Interactive games tailored for concepts in mathematics, science, languages, and more.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. Smart Progress Tracking
 
-### Code Splitting
+Dashboards displaying accuracy, skill mastery, time spent, streaks, completion rate, and overall learning growth.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3. Adaptive Difficulty
 
-### Analyzing the Bundle Size
+AI-based difficulty adjustment based on student performance.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+4. Points, Badges & Leaderboards
 
-### Making a Progressive Web App
+Rewards to boost intrinsic motivation and encourage continuous learning.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+5. Customizable Courses for Teachers
 
-### Advanced Configuration
+Teachers can create, assign, and track game-based modules and quizzes.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+6. Multiplayer / Team Challenges
 
-### Deployment
+Students compete or collaborate on problem-solving tasks.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+7. Parent & Teacher Insights
 
-### `npm run build` fails to minify
+Reports showing performance trends, weak areas, and recommendations.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+8. Cross-Platform Access
+
+Works on mobile, tablet, and web browsers.
+
+
+
+
+🧩 Tech Stack
+
+Frontend: React / Next.js / Tailwind
+Backend: Node.js / Express or Spring Boot (depending on the team’s architecture)
+Database: MongoDB / PostgreSQL
+Authentication: JWT / OAuth
+Additional Services:
+
+WebSockets for multiplayer interactions
+
+Cloud storage for game assets
+
+Analytics engine for progress evaluation
+
+
+
+
+🏛️ System Architecture
+Frontend (React)
+     |
+API Gateway
+     |
+Backend Services (Auth, Games Engine, Leaderboard, Analytics)
+     |
+Database Cluster (MongoDB / PostgreSQL)
+     |
+Storage (Cloud)
+
+
+
+
+📚 Modules Under Development
+
+User Authentication (Student/Teacher/Parent roles)
+
+Game Engine
+
+Quiz Engine
+
+Leaderboard Module
+
+Course Builder
+
+Analytics Dashboard
+
+Profile & Settings
+
+Admin Panel
