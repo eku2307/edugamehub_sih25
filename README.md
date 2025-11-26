@@ -14,7 +14,7 @@ Make learning as engaging as gaming — without compromising educational depth.
 
 
 
-🎯 Problem Statement
+## 🎯 Problem Statement ##
 
 Traditional learning suffers from:
 
@@ -30,8 +30,9 @@ Boring or non-interactive study formats
 
 EduGameHub addresses these issues through a gamified digital learning environment with progression, rewards, analytics, and educator-driven content.
 
+-------------------------------------------------------
 
-🚀 Key Features
+## 🚀 Key Features##
 1. Gamified Learning Modules
 
 Interactive games tailored for concepts in mathematics, science, languages, and more.
@@ -64,16 +65,17 @@ Reports showing performance trends, weak areas, and recommendations.
 
 Works on mobile, tablet, and web browsers.
 
+---------------------------------------------------------------------------------------------------------------------
 
 
-
-🧩 Tech Stack
+## 🧩 Tech Stack##
 
 Frontend: React / Next.js / Tailwind
 Backend: Node.js / Express or Spring Boot (depending on the team’s architecture)
 Database: MongoDB / PostgreSQL
 Authentication: JWT / OAuth
-Additional Services:
+
+## Additional Services:##
 
 WebSockets for multiplayer interactions
 
@@ -82,9 +84,10 @@ Cloud storage for game assets
 Analytics engine for progress evaluation
 
 
+-------------------------------------------------------------------------------------
 
+## 🏛️ System Architecture##
 
-🏛️ System Architecture
 Frontend (React)
      |
 API Gateway
@@ -95,10 +98,10 @@ Database Cluster (MongoDB / PostgreSQL)
      |
 Storage (Cloud)
 
+---------------------------------------------------
 
 
-
-📚 Modules Under Development
+## 📚 Modules Under Development##
 
 User Authentication (Student/Teacher/Parent roles)
 
@@ -106,6 +109,7 @@ Game Engine
 
 Quiz Engine
 
+Backend system for user registration
 Leaderboard Module
 
 Course Builder
