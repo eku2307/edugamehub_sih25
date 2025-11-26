@@ -4,7 +4,7 @@ A gamified learning platform transforming education through interactive challeng
 
 
 
-⭐ Overview
+## ⭐ Overview
 
 EduGameHub is an interactive learning ecosystem designed for students, teachers, and institutions.
 Instead of passive textbook-based learning, the platform turns concepts into mini-games, challenges, quizzes, and real-time progress systems, making learning fun, visual, and addictive.
@@ -14,7 +14,7 @@ Make learning as engaging as gaming — without compromising educational depth.
 
 
 
-## 🎯 Problem Statement ##
+## 🎯 Problem Statement 
 
 Traditional learning suffers from:
 
@@ -32,7 +32,7 @@ EduGameHub addresses these issues through a gamified digital learning environmen
 
 -------------------------------------------------------
 
-## 🚀 Key Features##
+## 🚀 Key Features
 1. Gamified Learning Modules
 
 Interactive games tailored for concepts in mathematics, science, languages, and more.
@@ -68,14 +68,14 @@ Works on mobile, tablet, and web browsers.
 ---------------------------------------------------------------------------------------------------------------------
 
 
-## 🧩 Tech Stack##
+## 🧩 Tech Stack
 
 Frontend: React / Next.js / Tailwind
 Backend: Node.js / Express or Spring Boot (depending on the team’s architecture)
 Database: MongoDB / PostgreSQL
 Authentication: JWT / OAuth
 
-## Additional Services:##
+## Additional Services:
 
 WebSockets for multiplayer interactions
 
@@ -86,7 +86,7 @@ Analytics engine for progress evaluation
 
 -------------------------------------------------------------------------------------
 
-## 🏛️ System Architecture##
+## 🏛️ System Architecture
 
 Frontend (React)
      |
@@ -101,7 +101,7 @@ Storage (Cloud)
 ---------------------------------------------------
 
 
-## 📚 Modules Under Development##
+## 📚 Modules Under Development
 
 User Authentication (Student/Teacher/Parent roles)
 
