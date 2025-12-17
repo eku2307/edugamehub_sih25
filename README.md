@@ -70,18 +70,18 @@ Works on mobile, tablet, and web browsers.
 
 ## 🧩 Tech Stack
 
-Frontend: React / Next.js / Tailwind
-Backend: Node.js / Express or Spring Boot (depending on the team’s architecture)
+Frontend: React / Tailwind
+Backend: Node.js
 Database: MongoDB / PostgreSQL
 Authentication: JWT / OAuth
 
 ## Additional Services:
 
-WebSockets for multiplayer interactions
+-WebSockets for multiplayer interactions
 
-Cloud storage for game assets
+-Cloud storage for game assets
 
-Analytics engine for progress evaluation
+-Analytics engine for progress evaluation
 
 
 -------------------------------------------------------------------------------------
@@ -103,19 +103,20 @@ Storage (Cloud)
 
 ## 📚 Modules Under Development
 
-User Authentication (Student/Teacher/Parent roles)
+-User Authentication (Student/Teacher/Parent roles)
 
-Game Engine
+-Game Engine
 
-Quiz Engine
+-Quiz Engine
 
-Backend system for user registration
-Leaderboard Module
+-Backend system for user registration
 
-Course Builder
+-Leaderboard Module
 
-Analytics Dashboard
+-Course Builder
 
-Profile & Settings
+-Analytics Dashboard
+
+-Profile & Settings
 
 Admin Panel
